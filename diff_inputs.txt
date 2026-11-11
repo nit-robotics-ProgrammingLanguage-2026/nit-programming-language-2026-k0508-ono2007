@@ -1,2 +1,10 @@
 # main.c と ai.c の出力が食い違う入力を1行に1つ書く。
-# 食い違いがなければ「なし」とだけ書く。
+# 食い違いがなければ「なし」とだけ書く
+AI
+printf("Error\n")
+printf("No\n")
+int flag=0;
+int flag=1;
+私が書いたプログラミング
+printf("Error")
+printf("No")
