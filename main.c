@@ -13,7 +13,7 @@ int main(void)
              printf("Up");
     else if (n %5 == 0)
              printf("Go");
-    else if (n %8 == 0)
+    else if (n %7 == 0)
              printf("!!");
     else     
              printf("No");
